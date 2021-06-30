@@ -1,0 +1,31 @@
+.describe{
+    width: 250px;
+    background-color: rgb(221, 95, 72);
+    color: rgb(17, 5, 10);
+    padding: 40px;
+    font-size: 22px;
+    font-family:cursive;
+    text-align: center;
+    margin:auto;
+    border-radius: 10%;
+}
+
+.describeNegative{
+    width: 250px;
+    background-color: rgb(73, 33, 33);
+    color: rgb(236, 79, 17);
+    padding: 40px;
+    font-size: 22px;
+    font-family:cursive;
+    text-align: center;
+    margin:auto;
+    border-radius: 10%;
+}
+
+.title{
+    font-size: 22px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(57, 18, 163);
+    
+}
+
